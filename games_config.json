@@ -1,0 +1,239 @@
+{
+  "mw2": [
+    {
+      "category": "basegame",
+      "map": [
+        {"tag": ["m"], "name": "Afghan", "code": "mp_afghan", "teams": ["Task Force 141", "OpFor"]},
+        {"tag": ["m"], "name": "Derail", "code": "mp_derail", "teams": ["Task Force 141", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Estate", "code": "mp_estate", "teams": ["Task Force 141", "Spetsnaz"]},
+        {"tag": ["m", "f"], "name": "Favela", "code": "mp_favela", "teams": ["Task Force 141", "Brazilian Militia"]},
+        {"tag": ["m"], "name": "Highrise", "code": "mp_highrise", "teams": ["U.S Army Rangers", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Invasion", "code": "mp_invasion", "teams": ["U.S. Army Rangers", "OpFor"]},
+        {"tag": ["m"], "name": "Karachi", "code": "mp_checkpoint", "teams": ["Navy SEALs", "OpFor"]},
+        {"tag": ["m"], "name": "Quarry", "code": "mp_quarry", "teams": ["Task Force 141", "Brazilian Militia"]},
+        {"tag": ["m"], "name": "Rundown", "code": "mp_rundown", "teams": ["Brazilian Militia", "Task Force 141"]},
+        {"tag": ["s", "f"], "name": "Rust", "code": "mp_rust", "teams": ["Task Force 141 ", "OpFor"]},
+        {"tag": ["s"], "name": "Scrapyard", "code": "mp_boneyard", "teams": ["OpFor", "Task Force 141"]},
+        {"tag": ["m"], "name": "Skidrow", "code": "mp_nightshift", "teams": ["U.S. Army Rangers", "Spetsnaz"]},
+        {"tag": ["b"], "name": "Sub Base", "code": "mp_subbase", "teams": ["Navy SEALs", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Terminal", "code": "mp_terminal", "teams": ["U.S. Army Rangers", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Underpass", "code": "mp_underpass", "teams": ["Brazilian Militia", "Task Force 141"]},
+        {"tag": ["m"], "name": "Wasteland", "code": "mp_brecourt", "teams": ["Task Force 141", "Spetsnaz"]}
+      ]
+    }, {
+      "category": "dlc1",
+      "map": [
+      {"tag": ["m"], "name": "Bailout", "code": "mp_complex", "teams": ["U.S. Army Rangers", "Spetsnaz"]},
+      {"tag": ["m"], "name": "Crash", "code": "mp_crash", "teams": ["Task Force 141", "OpFor"]},
+      {"tag": ["m"], "name": "Overgrown", "code": "mp_overgrown", "teams": ["Task Force 141", "Spetsnaz"]},
+      {"tag": ["m"], "name": "Salvage", "code": "mp_compact", "teams": ["Task Force 141", "Spetsnaz"]},
+      {"tag": ["m"], "name": "Storm", "code": "mp_storm", "teams": ["Task Force 141", "Spetsnaz"]}
+      ]
+    }, {
+      "category": "dlc2",
+      "map": [
+        {"tag": ["m"], "name": "Carnival", "code": "mp_abandon", "teams": ["Task Force 141", "Brazilian Militia"]},
+        {"tag": ["m"], "name": "Fuel", "code": "mp_fuel2", "teams": ["U.S. Army Rangers", "OpFor"]},
+        {"tag": ["m"], "name": "Strike", "code": "mp_strike", "teams": ["U.S. Army Rangers", "OpFor"]},
+        {"tag": ["m"], "name": "Trailer Park", "code": "mp_trailerpark", "teams": ["U.S. Army Rangers", "OpFor"]},
+        {"tag": ["m"], "name": "Vacant", "code": "mp_vacant", "teams": ["U.S. Army Rangers", "Spetsnaz"]}
+      ]
+    }, {
+      "category": "dlc3",
+      "map": [
+        {"tag": ["s", "f"], "name": "Nuketown", "code": "mp_nuked", "teams": ["U.S. Army Rangers", "Spetsnaz"]}
+      ]
+    }, {
+      "category": "dlc4",
+      "map": [
+        {"tag": ["m", "c"], "name": "Crossfire", "code": "mp_cross_fire", "teams": ["U.S. Army Rangers", "OpFor"]},
+        {"tag": ["m"], "name": "Bloc", "code": "mp_bloc", "teams": ["U.S. Army Rangers", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Cargoship", "code": "mp_cargoship", "teams": ["U.S. Army Rangers", "Spetsnaz"]}
+      ]
+    }, {
+      "category": "dlc5",
+      "map": [
+        {"tag": ["m"], "name": "Killhouse", "code": "mp_killhouse", "teams": ["U.S. Army Rangers", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Bog", "code": "mp_bog_sh", "teams": ["U.S. Army Rangers", "Spetsnaz"]}
+      ]
+    }, {
+      "category": "dlc6",
+      "map": [
+        {"tag": ["m"], "name": "Freighter", "code": "mp_cargoship_sh", "teams": ["U.S. Army Rangers", "Spetsnaz"]}
+      ]
+    }, {
+      "category": "dlc7",
+      "map": [
+        {"tag": ["m"], "name": "Shipment: Long", "code": "mp_shipment_long", "teams": ["Task Force 141", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Rust: Long", "code": "mp_rust_long", "teams": ["U.S. Army Rangers", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Firing Range", "code": "mp_firingrange", "teams": ["U.S. Army Rangers", "Spetsnaz"]}
+      ]
+    }, {
+      "category": "dlc8",
+      "map": [
+        {"tag": ["m"], "name": "Chemical Plant", "code": "mp_storm_spring", "teams": ["U.S. Army Rangers", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Favela: Tropical", "code": "mp_fav_tropical", "teams": ["U.S. Army Rangers", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Estate: Tropical", "code": "mp_estate_tropical", "teams": ["U.S. Army Rangers", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Crash: Tropical", "code": "mp_crash_tropical", "teams": ["U.S. Army Rangers", "Spetsnaz"]},
+        {"tag": ["m"], "name": "Forgotten City", "code": "mp_bloc_sh", "teams": ["U.S. Army Rangers", "Spetsnaz"]}
+      ]
+    }, {
+      "category": "sp",
+      "map": [
+        {"tag": ["m"], "name": "Oil Rig", "code": "oilrig", "teams": ["Team A", "Team B"]},
+        {"tag": ["m"], "name": "Test Map", "code": "iw4_credits", "teams": ["Team A", "Team B"]},
+        {"tag": ["m"], "name": "Village", "code": "co_hunted", "teams": ["Team A", "Team B"]}
+      ]
+    }
+  ],
+  "lol": [
+    {
+      "category": "sr",
+      "map": [{"tag": [], "name": "Summoner Rift", "code": "draft pick", "teams": ["Red", "Blue"]}]
+    }
+  ],
+  "vr": [
+    {
+      "category": "basegame",
+      "map": [
+        {"tag": [], "name": "Haven", "teams": ["Offense", "Defense"]},
+        {"tag": [], "name": "Blind", "teams": ["Offense", "Defense"]},
+        {"tag": [], "name": "Split", "teams": ["Offense", "Defense"]}
+      ]
+    }
+  ],
+  "csgo": [
+    {
+      "category": "basegame",
+      "map": [
+        {"tag": [], "name": "Cache", "code": "de_cache", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Dust II", "code": "de_dust2", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Mirage", "code": "de_mirage", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Overpass", "code": "de_overpass", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Nuke", "code": "de_nuke", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Inferno", "code": "de_inferno", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Train", "code": "de_train", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Cobblestone", "code": "de_cbble", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Canals", "code": "de_canals", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Subzero", "code": "de_subzero", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Shortdust", "code": "de_shortdust", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Shortnuke", "code": "de_shortnuke", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Subzero", "code": "de_subzero", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Subzero", "code": "de_subzero", "teams": ["Terrorist", "Counter Terrorist"]},
+        {"tag": [], "name": "Subzero", "code": "de_subzero", "teams": ["Terrorist", "Counter Terrorist"]}
+      ]
+    }
+  ],
+  "ow": [
+    {
+      "category": "thailand",
+      "map": [
+        {"tag": ["ctf"], "name": "Ayutthaya", "mode": ["ctf"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "germany",
+      "map": [
+        {"tag": ["elimination", "td"], "name": "Black Forest", "mode": ["elimination", "td"], "teams": ["Team A", "Team B"]},
+        {"tag": ["deathmatch", "hybrid", "td"], "name": "Eichenwalde", "mode": ["deathmatch", "hybrid", "td"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "usa",
+      "map": [
+        {"tag": ["hybrid"], "name": "Blizzard World", "mode": ["hybrid"], "teams": ["Team A", "Team B"]},
+        {"tag": ["hybrid", "deathmatch", "td"], "name": "Hollywood", "mode": ["hybrid", "deathmatch", "td"], "teams": ["Team A", "Team B"]},
+        {"tag": ["escort"], "name": "Route 66", "mode": ["escort"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "korea",
+      "map": [
+        {"tag": ["control"], "name": "Busan", "mode": ["control"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "italy",
+      "map": [
+        {"tag": ["elimination", "td"], "name": "Castillo", "mode": ["elimination", "td"], "teams": ["Team A", "Team B"]},
+        {"tag": ["escort"], "name": "Rialto", "mode": ["escort"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "france",
+      "map": [
+        {"tag": ["deathmatch", "td"], "name": "Château Guillard", "mode": ["deathmatch", "td"], "teams": ["Team A", "Team B"]},
+        {"tag": ["assault"], "name": "Paris", "mode": ["assault"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "mexico",
+      "map": [
+        {"tag": ["deathmatch", "escort", "td"], "name": "Dorado", "mode": ["deathmatch", "escort", "td"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "ow",
+      "map": [
+        {"tag": ["elimination", "td"], "name": "Ecopoint: Antarctica", "mode": ["elimination", "td"], "teams": ["Team A", "Team B"]},
+        {"tag": ["elimination", "td"], "name": "Watchpoint: Gibraltar", "mode": ["elimination", "td"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "japan",
+      "map": [
+        {"tag": ["assault"], "name": "Hanamura", "mode": ["assault"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "cuba",
+      "map": [
+        {"tag": ["escort"], "name": "Havana", "mode": ["escort"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "moon",
+      "map": [
+        {"tag": ["assault"], "name": "Horizon Lunar Colony", "mode": ["assault"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "greece",
+      "map": [
+        {"tag": ["control", "ctf"], "name": "Ilios", "mode": ["control", "ctf"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "australia",
+      "map": [
+        {"tag": ["escort"], "name": "Junkertown", "mode": ["escort"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "uk",
+      "map": [
+        {"tag": ["deathmatch", "hybrid", "td"], "name": "Junkertown", "mode": ["deathmatch", "hybrid", "td"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "china",
+      "map": [
+        {"tag": ["control", "ctf"], "name": "Liljiang Tower", "mode": ["control", "ctf"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "egypt",
+      "map": [
+        {"tag": ["elimination", "td"], "name": "Necropolis", "mode": ["elimination", "td"], "teams": ["Team A", "Team B"]},
+        {"tag": ["control", "ctf"], "name": "Oasis", "mode": ["elimination", "td"], "teams": ["Team A", "Team B"]},
+        {"tag": ["assault"], "name": "Temple Of Anubis", "mode": ["assault"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "nepal",
+      "map": [
+        {"tag": ["control", "ctf"], "name": "Necropolis", "mode": ["control", "ctf"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "nigeria",
+      "map": [
+        {"tag": ["hybrid"], "name": "Numbani", "mode": ["hybrid"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "iraq",
+      "map": [
+        {"tag": ["deathmatch", "td"], "name": "Numbani", "mode": ["deathmatch", "td"], "teams": ["Team A", "Team B"]}
+      ]
+    }, {
+      "category": "russia",
+      "map": [
+        {"tag": ["assault"], "name": "Volskaya Industries", "mode": ["assault"], "teams": ["Team A", "Team B"]}
+      ]
+    }
+  ],
+  "TCRS": []
+}
